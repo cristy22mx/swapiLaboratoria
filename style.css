@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+
+.card{
+	float: left;
+	justify-content: center;
+	margin: 10px;
+}
+
+.card-img-top{
+	width: 70% !important;
+	height: 50% !important;
+}
